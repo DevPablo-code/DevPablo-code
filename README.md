@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevPablo-code
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in game development and cyber security
+- 🌱 I’m currently learning C++, Zig, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
